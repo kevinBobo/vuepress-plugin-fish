@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-plugin-fish",
+  "version": "1.0.0",
+  "description": "fish style",
+  "main": "index.js",
+  "scripts": {
+    "eslint-ext": "eslint --ext .js,.vue ./",
+    "eslint-fix": "eslint --fix --ext .js,.vue ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinBobo/vuepress-plugin-fish.git"
+  },
+  "keywords": [
+    "vuepress-plugin",
+    "fish",
+    "vue"
+  ],
+  "author": "bobo",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
